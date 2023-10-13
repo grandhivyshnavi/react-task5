@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import 'C:/MERN/ReactJS/task5/node_modules/bootstrap/dist/css/bootstrap.min.css';
+import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 function AgeCalculator() {
     const [dateOfBirth, setDateOfBirth] = useState('');
